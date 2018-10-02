@@ -1,0 +1,13 @@
+Please read the instructions on how to install each plugin.
+Instructions can be found on Hey0's forums. Some plugins require extra modifications and effort to make them work. Some may not work at all if using outdated version of plugin or incompatible Hey0's mod.
+
+Basically, you install plugins like this:
+
+1. Download the .jar file from Hey0's forums.
+2. Place it in "\bin\plugins\" folder.
+3. Open server.properties with Notepad or other text editor.
+4. Add the plugin's name to plugins=
+
+Make sure to use proper caps in "plugins=" line in your server.properties, that's the biggest issue with most users. A plugin called PluGin.jar must be like this:
+
+plugins=Plugin1,PluGin,Plugin3
