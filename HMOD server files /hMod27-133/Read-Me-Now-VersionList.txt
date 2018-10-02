@@ -1,0 +1,35 @@
+Please note that sometimes when making the world the server will just stop. So, before you go saying it doesn't work, please close the window and run the server again to see if that fixed the problem!
+
+Plugin support was added in hMod 105!
+
+Server Version(s): 0.1.4 Game Version(s): a1.0.17_04, a1.0.17_02
+hMod 27-63
+
+Server Version(s): 0.2.1, 0.2.0_01 Game Version(s): a1.1.2_01, a1.1.2, a1.1.1b, a1.1.0
+hMod 64-122
+
+Server Version(s): 0.2.3, 0.2.2_01 Game Version(s): a1.2.1_01, a1.2.0_02, a1.2.0_01
+hMod 123-124
+
+Server Version(s): 0.2.4 Game Version(s): a1.2.2b, a1.2.2a
+hMod 125
+
+Server Version(s): 0.2.5_02, 0.2.5_01, 0.2.5 Game Version(s): a1.2.3_04, a1.2.3_02, a1.2.3_01, a1.2.3
+hMod 126-128
+
+Server Version(s): 0.2.6_02 Game Version(s): a1.2.6, a1.2.5, a1.2.4_01
+hMod 129-130
+
+Server Version(s): 0.2.8, 0.2.7 Game Version(s): a1.2.6, a1.2.5, a1.2.4_01
+hMod 131
+
+Server Version(s): beta 1.1_02 Game Version(s): b1.1_02
+hMod 132-133
+
+
+Versions of hMod made by Meaglins(I do not know much about these few versions so asking me questions won't help much.)
+Server Version(s): beta 1.2 Game Version(s): b1.2
+hMod alpha 12-16
+
+Server Version(s): beta 1.3 Game Version(s): b1.3
+hMod 135-136
